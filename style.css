@@ -1,0 +1,111 @@
+
+*{
+    font-family: 'Lato', sans-serif;
+    font-size: 12px;
+}
+.main-containt{
+    min-height: 100%;
+    position: relative;
+    padding-bottom: 30px;
+}
+
+.bg-img{
+    background-image: url(https://connectuat.medixcel.in/images/medixcel_connect_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh ;
+}
+
+.logo{
+    padding-top: 10vh
+}
+.logo-img{
+    text-align: center;
+    font-weight: 300;
+    margin-bottom: 25px !important;
+    padding-left: 5vh;
+    font-size: 35px;
+}
+.logo-Caption {
+    display: block;
+    clear: both;  
+    font-size: 12px !important;
+    font-weight: 400 !important;
+}
+.login-section{
+    border-top: 0;
+    color: #666;
+    padding: 20px; 
+    background: #fff;
+}
+.form-title{
+    padding-top: 5vh;
+}
+.form-font{
+    font-size: 18px !important;
+    color: #777;
+}
+.login-title{
+    margin: 0;
+    text-align: center;
+    padding: 0 20px 20px 20px;
+}
+p.login-title{
+    font-size: 14px;
+}
+.btn-style{
+    background-color: #faa732 !important;
+    color: #FFF !important;
+    border-color: #faa732 !important;
+    padding: 6px 12px;
+    text-shadow: #faa732;
+    
+}
+.btn-main{
+    text-align: center !important;
+    padding-top: 3vh;
+}
+.text-a{
+    text-align: center !important;
+    padding-top: 3vh;
+}
+.text-style{   
+    text-decoration: underline;
+    text-decoration-color: #faa732;
+    color: #faa732;   
+    font-family: 'Lato', sans-serif;
+}
+.check-box{
+    font-family: 'Lato', sans-serif;
+    text-decoration: underline;
+    text-decoration-color:#faa732 ;        ;
+}
+.footer-title{
+    padding: 3vh;
+    text-align: center;
+    
+}
+.submit-btn{
+    border-radius: 0;
+    box-shadow: none;
+    border-width: 1px;
+}
+.form-icon{
+    position: absolute;
+    font-style: normal;
+    display: block;
+    width: 48px !important;
+    height: 48px !important;
+    top: 6px !important;
+    color: #777;
+    font-family: "Glyphicons Halflings";
+    z-index: 2;
+    top: 0;
+    font-weight: 400;
+    right: 0;
+    line-height: 34px;
+    text-align: center;
+    width: 34px;
+    height: 34px;  
+    pointer-events: none;   
+}
