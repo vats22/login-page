@@ -34,7 +34,7 @@
 }
 .login-section{
     border-top: 0;
-    color: #666;
+    color: #665;
     padding: 20px; 
     background: #fff;
 }
@@ -54,11 +54,11 @@ p.login-title{
     font-size: 14px;
 }
 .btn-style{
-    background-color: #faa732 !important;
+    background-color: #faa737 !important;
     color: #FFF !important;
-    border-color: #faa732 !important;
+    border-color: #faa737 !important;
     padding: 6px 12px;
-    text-shadow: #faa732;
+    text-shadow: #faa737;
     
 }
 .btn-main{
@@ -98,7 +98,6 @@ p.login-title{
     height: 48px !important;
     top: 6px !important;
     color: #777;
-    font-family: "Glyphicons Halflings";
     z-index: 2;
     top: 0;
     font-weight: 400;
